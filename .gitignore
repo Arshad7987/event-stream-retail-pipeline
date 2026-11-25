@@ -1,0 +1,19 @@
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Logs / local env
+*.log
+.env
